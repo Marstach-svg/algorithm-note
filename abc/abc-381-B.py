@@ -1,5 +1,5 @@
-Atcoder Beginner Contest 381 B
-同じkeyだと値が更新されてしまうdictの性質をつかった。
+# Atcoder Beginner Contest 381 B
+# 同じkeyだと値が更新されてしまうdictの性質をつかった。
 T = input()
 
 def String_1122(T):
